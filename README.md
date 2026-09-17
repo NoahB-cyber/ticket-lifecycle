@@ -22,9 +22,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
+- Intake/Creation
+- Triage
+- Dispatch
 - Resolution
 
 <h2>Lifecycle Stages</h2>
@@ -36,7 +36,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 The photo above illustrates a tickets lifecycle in 4 simple steps
 </p>
 <br />
- Step 1: Creation - The ticket enters the system by manually entering it on the osTicket website, over the phone, or email. 
+ Step 1: Intake/Creation - The ticket enters the system by manually entering it on the osTicket website, over the phone, or email. 
 
  &nbsp;
   <img width="608" height="390" alt="Screenshot 2026-09-14 8 10 48 PM" src="https://github.com/user-attachments/assets/477edd6f-d769-477f-82e7-dd071a7147e6" />
